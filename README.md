@@ -1,1 +1,1 @@
-# Logica-de-programaci-n
+# Logica-de-programación
